@@ -26,4 +26,18 @@ java version 17
 1.2. At the end, enter the folder of the cloned repository you just cloned, in this example, PanGeneWhale.
 
 
+# 2. Installing PanGeneWhale on Linux. How to use Java package?
+LINUX (Debian 12 e 13): To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
+
+```bash
+apt install ./pangenewhale.deb
+```
+
+To run using the JAR package. Open the terminal and run using JAVA, following the example below:
+
+```bash
+java -jar pangenewhale.jar
+```
+
+# 3. Executing PanGeneWhale
 
