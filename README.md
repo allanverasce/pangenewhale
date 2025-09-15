@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/logo" alt="Logo" width="300" height="300" />
+</p>
+
 # From Benchmarking to Application: PanGeneWhale, a User-Friendly Platform for Pangenomic Analysis
 <p align="justify">The choice of software for pan-genomic analysis is challenging due to barriers such as usability, performance, complexity, and the diversity of available solutions. These issues often require advanced knowledge and compromise reproducibility. To explore this scenario, we conducted a comprehensive benchmarking of 12 tools applied to 50 <em>Escherichia coli</em> genomes. The analysis revealed significant disparities in computational performance (CPU, memory, and storage usage) and in the biological composition of the generated pangenomes. Critical usability barriers were also identified, including outdated dependencies and a lack of graphical interfaces. To overcome these limitations, the benchmarking motivated the development of PanGeneWhale, a platform that integrates the evaluated solutions in a containerized environment (Docker). With an intuitive, cross-platform graphical interface, the software automates execution flows, ensures reproducibility, and broadens access to pan-genomic analysis. Thus, it represents a solution that supports both researchers with limited computing experience and advanced users, simplifying the conduct of large-scale studies.</p>
 
