@@ -43,4 +43,10 @@ java -jar pangenewhale.jar
 ```
 
 # 3. Executing PanGeneWhale
+When you start the application, you will see the presentation screen. Here, the user will find a brief description of the software. To access more information, simply click on the "Learn More" button. On this same screen, all previously created projects are listed. The user can:
+
+* View details of previous projects.
+* Reuse existing projects for reprocessing with already configured parameters;
+* Delete projects that are no longer needed.
+* You can also start a new workflow by clicking on “Create New Project”
 
