@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo" alt="Logo" width="300" height="300" />
+  <img src="screenshots/logo.png" alt="Logo" width="300" height="300" />
 </p>
 
 # From Benchmarking to Application: PanGeneWhale, a User-Friendly Platform for Pangenomic Analysis
