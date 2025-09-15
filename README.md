@@ -21,8 +21,9 @@ To begin with, check that you have this software installed on your device:
 ```bash
 git - https://git-scm.com/downloads/win
 Java version 17 
-``
+```
 1.1.	To start the installation, let's clone the repository with the git clone command and the correct URL in the desired folder.
+1.2. At the end, enter the folder of the cloned repository you just cloned, in this example, PanGeneWhale.
 
 
 
