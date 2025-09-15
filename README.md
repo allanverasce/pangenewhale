@@ -14,3 +14,15 @@ Before using PanGeneWhale, it is necessary to ensure that all required dependenc
 - To use PanGeneWhale, it is required to have Docker installed on your operating system. Docker provides the containerized environment necessary to run PanGeneWhale. You can find the official instructions and download them at: `https://docs.docker.com/engine/install`
 - You need to install Java if you want to run it using the JAR package. To use this option, the user must have Java 17 previously installed on their system. The official Java 17 package can be downloaded from: `https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html`
   
+
+# 1. PanGeneWhale installation on Windows
+To begin with, check that you have this software installed on your device:
+
+```bash
+git - https://git-scm.com/downloads/win
+Java version 17 
+``
+1.1.	To start the installation, let's clone the repository with the git clone command and the correct URL in the desired folder.
+
+
+
