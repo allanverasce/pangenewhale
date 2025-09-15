@@ -50,3 +50,4 @@ When you start the application, you will see the presentation screen. Here, the 
 * Delete projects that are no longer needed.
 * You can also start a new workflow by clicking on “Create New Project”
 
+<img src="screenshots/mainWin.png" alt="Main" width="800" height="600" /> 
