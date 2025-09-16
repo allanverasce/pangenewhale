@@ -65,3 +65,20 @@ To start a new project, click on the **"New Project"** button. A window will the
 
 <img src="screenshots/createproject.png" alt="CreateProject" width="800" height="600" /> 
 
+# Tool Selection and Parameter Configuration
+In the next window, the user can customize their analysis. The available options are:
+* Select the desired tool to perform the analysis;
+* Use standard parameters provided by each tool, previously added to the PanGeneWhale database;
+
+## Customize the parameters, allowing you to:
+* Change existing values;
+* Add new parameters;
+* Define which parameters will be used or removed from the analysis.
+
+- Data input - where the user will inform the location of the data that will be processed in their analysis. As well as where the processing results will be made available. In addition, the input file must be checked individually in the manual for the respective tool. 
+
+**Note:** Both the input files and the parameterization can (and should) be adjusted according to the selected tool and the objectives of your analysis. For detailed information about each tool, supported inputs, and parameters, refer to the specific manual for the selected tool.
+
+<img src="screenshots/selectTool.png" alt="Selection" width="800" height="600" /> 
+
+
