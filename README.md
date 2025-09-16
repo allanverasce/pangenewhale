@@ -41,7 +41,7 @@ java version 17
 LINUX (Debian 12 e 13): To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
 
 ```bash
-apt install ./pangenewhale.deb
+apt install ./pangenewhale-installer-deb-12-x64-1.0.0.deb
 ```
 
 To run using the JAR package. Open the terminal and run using JAVA, following the example below:
