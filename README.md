@@ -54,12 +54,13 @@ java -jar PanGeneWhale-macos-x64-1.0.0.jar
 
 <img src="screenshots/powershell.jpeg" alt="Power" width="800" height="600" /> 
 
+**It is important to note** that if you have not downloaded any images previously, you need to double-click the “run” button. The first click pulls the image from the selected tool, and the second executes it.
+
 - **Using the JAR package.** Open the terminal and run using JAVA, following the example below:
 
 ```bash
 java -jar PanGeneWhale-linux-x64-1.0.0.jar
 ```
-
 
 # 3. Main window PanGeneWhale
 When you start the application, you will see the presentation screen. Here, the user will find a brief description of the software. To access more information, simply click on the "Learn More" button. On this same screen, all previously created projects are listed. The user can:
