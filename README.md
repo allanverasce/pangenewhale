@@ -85,4 +85,11 @@ In the previous window, you can view the command that will be executed in the Pa
 
 <img src="screenshots/terminal.png" alt="Terminal" width="800" height="600" /> 
 
+In the “Tool Parameters” section, the parameters previously registered in the database are displayed. The user can:
+- Select one or more existing parameters;
+- The selected parameters are automatically inserted into the command line, without the need for manual typing.
+- See the example below: When you select a parameter from the list, it is immediately included in the command displayed in the terminal, facilitating the configuration of the analysis.
+  
+**Note:** You can see in the example that the location information for the data to be processed has been entered, which activates the “Run Tool” button. Therefore, we recommend entering the data after adjusting the parameters. However, the order does not impact the analysis.
 
+<img src="screenshots/addParameter.png" alt="addParameter" width="800" height="600" /> 
