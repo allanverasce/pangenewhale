@@ -147,7 +147,7 @@ In this example, the expected results of the analysis are as follows; however, t
 
 ## This software is part of research developed at the Biological Engineering Laboratory - EngBio.
 
-<img src="screenshots/EngBio logo.png" alt="EngBio" width="200" height="200" /> <img src="screenshots/ufpa.png" alt="ufpa" width="200" height="200" /> 
+<img src="screenshots/EngBio logo.png" alt="EngBio" width="100" height="100" /> <img src="screenshots/ufpa.png" alt="ufpa" width="100" height="100" /> 
 
 
 
