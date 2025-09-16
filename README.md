@@ -80,12 +80,12 @@ In the next window, the user can customize their analysis. The available options
 
 <img src="screenshots/selectTool.png" alt="Selection" width="800" height="600" /> 
 
-# Viewing the Command and Available Parameters
+# Viewing the available commands and parameters
 In the previous window, you can view the command that will be executed in the PanGeneWhale terminal area.
 
 <img src="screenshots/terminal.png" alt="Terminal" width="800" height="600" /> 
 
-In the “Tool Parameters” section, the parameters previously registered in the database are displayed. The user can:
+In the **“Tool Parameters”** section, the parameters previously registered in the database are displayed. The user can:
 - Select one or more existing parameters;
 - The selected parameters are automatically inserted into the command line, without the need for manual typing.
 - See the example below: When you select a parameter from the list, it is immediately included in the command displayed in the terminal, facilitating the configuration of the analysis.
