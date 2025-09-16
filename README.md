@@ -116,6 +116,6 @@ After creating your project on the home screen, the user will be directed to thi
 ## Select Tool:
 Select the tool you want for the analysis. In this case, the tool chosen was Panaroo.
 
-<img src="screenshots/toolSelection.png" alt="Cenario2" width="800" height="600" /> 
+<img src="screenshots/toolSelection.png" alt="Cenario2" width="400" height="300" /> 
 
 
