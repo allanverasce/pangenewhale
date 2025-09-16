@@ -32,14 +32,20 @@ To install the software, locate the package folder and choose the installer comp
 [Download packages](https://github.com/allanverasce/pangenewhale/tree/main/packages)
 
 
-# 2. An example of how to install PanGeneWhale on Linux.
-LINUX (Debian 12 e 13): To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
+# 2. Examples of how to install PanGeneWhale
+
+- **LINUX (Debian 12 e 13):** To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
 
 ```bash
 apt install ./pangenewhale-installer-deb-12-x64-1.0.0.deb
 ```
 
-**To run using the JAR package. Open the terminal and run using JAVA, following the example below:**
+- **macOS:**  Run the line on your terminal
+```bash
+java -jar PanGeneWhale-macos-x64-1.0.0.jar
+```
+
+**Using the JAR package.** Open the terminal and run using JAVA, following the example below:
 
 ```bash
 java -jar PanGeneWhale-linux-x64-1.0.0.jar
