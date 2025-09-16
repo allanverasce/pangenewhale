@@ -141,5 +141,5 @@ In this section, you will find parameters designated for specific analyses. To u
 
 In this example, the expected results of the analysis are as follows; however, they may vary depending on the tool used.
 
-<img src="screenshots/outputExample.png" alt="Cenario7" width="400" height="400" /> 
+<img src="screenshots/outputExample.png" alt="Cenario7" width="300" height="400" /> 
 
