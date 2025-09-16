@@ -50,10 +50,9 @@ java -jar PanGeneWhale-macos-x64-1.0.0.jar
 2. Download the Pangenewhale executable file for Windows, then double-click and proceed with the installation.
 3. Navigate to the folder where you chose to save the executable file (pangenewhale.exe)
 4. Open the terminal (PowerShell or cmd) as an administrator and activate WSL.
+5. Then run the tool with: `./PanGeneWhale`
 
 <img src="screenshots/powershell.jpeg" alt="Power" width="800" height="600" /> 
-  
-5. Then run the tool with: `./PanGeneWhale`
 
 - **Using the JAR package.** Open the terminal and run using JAVA, following the example below:
 
