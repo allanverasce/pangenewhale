@@ -93,3 +93,15 @@ In the “Tool Parameters” section, the parameters previously registered in th
 **Note:** You can see in the example that the location information for the data to be processed has been entered, which activates the “Run Tool” button. Therefore, we recommend entering the data after adjusting the parameters. However, the order does not impact the analysis.
 
 <img src="screenshots/addParameter.png" alt="addParameter" width="800" height="600" /> 
+
+# Adding a New Parameter
+To add a new parameter, click the “New Parameter” button. An editing area will appear, allowing you to manually enter the desired parameter.
+
+**Note:** Check whether the parameter requires an associated value. For example: `-threads 1`. In this case, -threads represents the number of threads (processing cores) option, and 1 is the assigned value.
+To ensure the correct use of parameters, refer to the manual for the selected tool, where you will find a detailed description of each parameter.
+Finally, the user must press the **“Save”** button to add it to the database.
+
+<img src="screenshots/addParameter1.png" alt="addParameter1" width="800" height="600" /> 
+
+
+
