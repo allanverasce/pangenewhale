@@ -50,7 +50,7 @@ To run using the JAR package. Open the terminal and run using JAVA, following th
 java -jar pangenewhale.jar
 ```
 
-# 3. Executing PanGeneWhale
+# 3. Main window PanGeneWhale
 When you start the application, you will see the presentation screen. Here, the user will find a brief description of the software. To access more information, simply click on the "Learn More" button. On this same screen, all previously created projects are listed. The user can:
 
 * View details of previous projects.
@@ -60,7 +60,7 @@ When you start the application, you will see the presentation screen. Here, the 
 
 <img src="screenshots/mainWin.png" alt="Main" width="800" height="600" /> 
 
-# Creating a new project
+# Create a new project window
 To start a new project, click on the **"New Project"** button. A window will then appear, as shown in the figure below, asking you to enter a name for the project, then press the **“Create”** button. We recommend using a name that is descriptive and related to your analysis, to facilitate future searches and reuse.
 
 <img src="screenshots/createproject.png" alt="CreateProject" width="800" height="600" /> 
