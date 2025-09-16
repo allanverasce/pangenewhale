@@ -27,17 +27,17 @@ Before using PanGeneWhale, it is necessary to ensure that all required dependenc
   
 
 # 1. PanGeneWhale installation 
-To install the software, locate the package [pacote] (https://github.com/allanverasce/pangenewhale/tree/main/packages) folder and choose the installer compatible with your operating system.
+To install the software, locate the package folder and choose the installer compatible with your operating system.
 
 
-# 2. Installing PanGeneWhale on Linux. How to use Java package?
+# 2. An example of how to install PanGeneWhale on Linux.
 LINUX (Debian 12 e 13): To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
 
 ```bash
 apt install ./pangenewhale-installer-deb-12-x64-1.0.0.deb
 ```
 
-To run using the JAR package. Open the terminal and run using JAVA, following the example below:
+**To run using the JAR package. Open the terminal and run using JAVA, following the example below:**
 
 ```bash
 java -jar PanGeneWhale-linux-x64-1.0.0.jar
