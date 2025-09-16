@@ -70,7 +70,7 @@ In the next window, the user can customize their analysis. The available options
 * Select the desired tool to perform the analysis;
 * Use standard parameters provided by each tool, previously added to the PanGeneWhale database;
 
-## Customize the parameters, allowing you to:
+## Adjusting settings
   -  Change existing values;
   -  Add new parameters;
   -  Define which parameters will be used or removed from the analysis.
