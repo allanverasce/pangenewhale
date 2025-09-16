@@ -45,7 +45,7 @@ apt install ./pangenewhale-installer-deb-12-x64-1.0.0.deb
 java -jar PanGeneWhale-macos-x64-1.0.0.jar
 ```
 
-**Using the JAR package.** Open the terminal and run using JAVA, following the example below:
+- **Using the JAR package.** Open the terminal and run using JAVA, following the example below:
 
 ```bash
 java -jar PanGeneWhale-linux-x64-1.0.0.jar
