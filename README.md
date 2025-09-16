@@ -118,4 +118,8 @@ Select the tool you want for the analysis. In this case, the tool chosen was Pan
 
 <img src="screenshots/toolSelection.png" alt="Cenario2" width="400" height="300" /> 
 
+## Input Folder: 
+Specify the folder containing the files you want to analyze. Make sure these files are compatible with the selected tool. In this example, we use .gff files.
+
+<img src="screenshots/input.png" alt="Cenario3" width="400" height="300" /> 
 
