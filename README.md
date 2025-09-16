@@ -145,9 +145,9 @@ In this example, the expected results of the analysis are as follows; however, t
 
 <img src="screenshots/outputExample.png" alt="Cenario7" width="300" height="400" /> 
 
-## This software is part of research developed at the Biological Engineering Laboratory - EngBio.
+**This software is part of research developed at the Biological Engineering Laboratory - EngBio.**
 
-<img src="screenshots/EngBio logo.png" alt="EngBio" width="130" height="130" /> <img src="screenshots/ufpa.png" alt="ufpa" width="130" height="130" /> 
+<img src="screenshots/EngBio logo.png" alt="EngBio" width="150" height="150" /> <img src="screenshots/ufpa.png" alt="ufpa" width="150" height="150" /> 
 
 
 
