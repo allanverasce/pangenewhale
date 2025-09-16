@@ -12,6 +12,10 @@
 <image src="https://github.com/user-attachments/assets/b1cb9cb4-33f1-4069-8c0b-078dbf994847" alt="Image" width="50" />
 <image src="https://github.com/user-attachments/assets/5b44250e-ced9-46a6-84dd-a4954f408495" alt="Image" width="50" />
 
+### Compatible with:
+<image src="https://github.com/user-attachments/assets/3ba215a2-9849-4e21-a84c-e7e32bdc19aa" alt="Image" width="50" />
+<image src="https://github.com/user-attachments/assets/97a4af37-07f2-4283-ae7d-9a1db3e51d50" alt="Image" width="50"/>
+
 
 # Installation and User Guide 
 
