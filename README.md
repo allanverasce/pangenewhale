@@ -45,11 +45,22 @@ apt install ./pangenewhale-installer-deb-12-x64-1.0.0.deb
 java -jar PanGeneWhale-macos-x64-1.0.0.jar
 ```
 
+- **Windows:**
+1. In addition to Docker Desktop, users must also have WSL2 pre-installed.
+2. Download the Pangenewhale executable file for Windows, then double-click and proceed with the installation.
+3. Navigate to the folder where you chose to save the executable file (pangenewhale.exe)
+4. Open the terminal (PowerShell or cmd) as an administrator and activate WSL.
+
+<img src="screenshots/powershell.jpeg" alt="Power" width="400" height="400" /> 
+  
+5. Then run the tool with: `./PanGeneWhale`
+
 - **Using the JAR package.** Open the terminal and run using JAVA, following the example below:
 
 ```bash
 java -jar PanGeneWhale-linux-x64-1.0.0.jar
 ```
+
 
 # 3. Main window PanGeneWhale
 When you start the application, you will see the presentation screen. Here, the user will find a brief description of the software. To access more information, simply click on the "Learn More" button. On this same screen, all previously created projects are listed. The user can:
