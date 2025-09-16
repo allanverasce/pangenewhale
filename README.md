@@ -123,3 +123,6 @@ Specify the folder containing the files you want to analyze. Make sure these fil
 
 <img src="screenshots/input.png" alt="Cenario3" width="400" height="300" /> 
 
+The files located in input_panaroo are used as sample data to illustrate the functionality of the tool.
+
+<img src="screenshots/inputFolder.png" alt="Cenario4" width="400" height="300" /> 
