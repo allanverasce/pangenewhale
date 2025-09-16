@@ -80,4 +80,9 @@ In the next window, the user can customize their analysis. The available options
 
 <img src="screenshots/selectTool.png" alt="Selection" width="800" height="600" /> 
 
+# Viewing the Command and Available Parameters
+In the previous window, you can view the command that will be executed in the PanGeneWhale terminal area.
+
+<img src="screenshots/terminal.png" alt="Terminal" width="800" height="600" /> 
+
 
