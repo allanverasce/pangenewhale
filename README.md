@@ -107,3 +107,10 @@ After finalizing the parameter adjustments and entering the input data to start 
 
 <img src="screenshots/runProject.png" alt="runTool" width="800" height="600" /> 
 
+
+# Usage scenario. Running your project:
+After creating your project on the home screen, the user will be directed to this window. Below, we will describe a usage scenario using the Panaroo tool with the input file in the .gff standard.
+
+<img src="screenshots/cenario1.png" alt="Cenario1" width="800" height="600" /> 
+
+
