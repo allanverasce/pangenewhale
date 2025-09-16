@@ -26,15 +26,8 @@ Before using PanGeneWhale, it is necessary to ensure that all required dependenc
 - You need to install Java if you want to run it using the JAR package. To use this option, the user must have Java 17 previously installed on their system. The official Java 17 package can be downloaded from: `https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html`
   
 
-# 1. PanGeneWhale installation on Windows
-To begin with, check that you have this software installed on your device:
-
-```bash
-git - https://git-scm.com/downloads/win
-java version 17 
-```
-1.1. To start the installation, let's clone the repository with the git clone command and the correct URL in the desired folder.</br>
-1.2. At the end, enter the folder of the cloned repository you just cloned, in this example, PanGeneWhale.
+# 1. PanGeneWhale installation 
+To install the software, locate the package [pacote] (https://github.com/allanverasce/pangenewhale/tree/main/packages) folder and choose the installer compatible with your operating system.
 
 
 # 2. Installing PanGeneWhale on Linux. How to use Java package?
