@@ -103,5 +103,7 @@ Finally, the user must press the **“Save”** button to add it to the database
 
 <img src="screenshots/addParameter1.png" alt="addParameter1" width="800" height="600" /> 
 
+After finalizing the parameter adjustments and entering the input data to start the execution, the user simply presses the **“Run Tool”** button. The next figure shows an example of the analysis execution. It is possible to follow all the processing performed by the selected tool in the Terminal area.
 
+<img src="screenshots/runProject.png" alt="runTool" width="800" height="600" /> 
 
