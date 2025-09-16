@@ -80,7 +80,7 @@ In the next window, the user can customize their analysis. The available options
 
 <img src="screenshots/selectTool.png" alt="Selection" width="800" height="600" /> 
 
-# Viewing the available commands and parameters
+# Viewing available commands and settings in the simulated terminal area
 In the previous window, you can view the command that will be executed in the PanGeneWhale terminal area.
 
 <img src="screenshots/terminal.png" alt="Terminal" width="800" height="600" /> 
@@ -108,7 +108,7 @@ After finalizing the parameter adjustments and entering the input data to start 
 <img src="screenshots/runProject.png" alt="runTool" width="800" height="600" /> 
 
 
-# Usage scenario. How to run your project?
+# Running a project, usage scenario.
 After creating your project on the home screen, the user will be directed to this window. Below, we will describe a usage scenario using the Panaroo tool with the input file in the .gff standard.
 
 <img src="screenshots/cenario1.png" alt="Cenario1" width="800" height="600" /> 
