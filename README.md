@@ -51,7 +51,7 @@ java -jar PanGeneWhale-macos-x64-1.0.0.jar
 3. Navigate to the folder where you chose to save the executable file (pangenewhale.exe)
 4. Open the terminal (PowerShell or cmd) as an administrator and activate WSL.
 
-<img src="screenshots/powershell.jpeg" alt="Power" width="400" height="400" /> 
+<img src="screenshots/powershell.jpeg" alt="Power" width="800" height="600" /> 
   
 5. Then run the tool with: `./PanGeneWhale`
 
