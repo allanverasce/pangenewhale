@@ -29,6 +29,8 @@ Before using PanGeneWhale, it is necessary to ensure that all required dependenc
 # 1. PanGeneWhale installation 
 To install the software, locate the package folder and choose the installer compatible with your operating system.
 
+[Download packages](https://github.com/allanverasce/pangenewhale/tree/main/packages)
+
 
 # 2. An example of how to install PanGeneWhale on Linux.
 LINUX (Debian 12 e 13): To install using the standard .deb package, follow the model below. Run the line on your Linux terminal 
