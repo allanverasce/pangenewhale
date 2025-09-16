@@ -137,5 +137,9 @@ In this section, you will find parameters designated for specific analyses. To u
 
 <img src="screenshots/parameterselection.png" alt="Cenario6" width="400" height="300" /> 
 
+## Results:
 
+In this example, the expected results of the analysis are as follows; however, they may vary depending on the tool used.
+
+<img src="screenshots/outputExample.png" alt="Cenario7" width="400" height="300" /> 
 
