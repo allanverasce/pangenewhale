@@ -59,3 +59,9 @@ When you start the application, you will see the presentation screen. Here, the 
 * You can also start a new workflow by clicking on “Create New Project”
 
 <img src="screenshots/mainWin.png" alt="Main" width="800" height="600" /> 
+
+# Creating a new project
+To start a new project, click on the **New Project** button. A window will then appear, as shown in the figure below, asking you to enter a name for the project, then press the “Create” button. We recommend using a name that is descriptive and related to your analysis, to facilitate future searches and reuse.
+
+<img src="screenshots/createproject.png" alt="CreateProject" width="800" height="600" /> 
+
