@@ -65,7 +65,7 @@ To start a new project, click on the **"New Project"** button. A window will the
 
 <img src="screenshots/createproject.png" alt="CreateProject" width="800" height="600" /> 
 
-# Tool Selection and Parameter Configuration
+# Tool Selection and Parameter Configuration window
 In the next window, the user can customize their analysis. The available options are:
 * Select the desired tool to perform the analysis;
 * Use standard parameters provided by each tool, previously added to the PanGeneWhale database;
@@ -108,7 +108,7 @@ After finalizing the parameter adjustments and entering the input data to start 
 <img src="screenshots/runProject.png" alt="runTool" width="800" height="600" /> 
 
 
-# Usage scenario. Running your project:
+# Usage scenario. How to run your project?
 After creating your project on the home screen, the user will be directed to this window. Below, we will describe a usage scenario using the Panaroo tool with the input file in the .gff standard.
 
 <img src="screenshots/cenario1.png" alt="Cenario1" width="800" height="600" /> 
@@ -137,7 +137,7 @@ In this section, you will find parameters designated for specific analyses. To u
 
 <img src="screenshots/parameterselection.png" alt="Cenario6" width="400" height="300" /> 
 
-## Results:
+## Results example:
 
 In this example, the expected results of the analysis are as follows; however, they may vary depending on the tool used.
 
