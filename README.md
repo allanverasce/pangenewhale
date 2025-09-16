@@ -60,12 +60,12 @@ When you start the application, you will see the presentation screen. Here, the 
 
 <img src="screenshots/mainWin.png" alt="Main" width="800" height="600" /> 
 
-# Create a new project window
+# 4. Create a new project window
 To start a new project, click on the **"New Project"** button. A window will then appear, as shown in the figure below, asking you to enter a name for the project, then press the **“Create”** button. We recommend using a name that is descriptive and related to your analysis, to facilitate future searches and reuse.
 
 <img src="screenshots/createproject.png" alt="CreateProject" width="800" height="600" /> 
 
-# Tool Selection and Parameter Configuration window
+# 5. Tool Selection and Parameter Configuration window
 In the next window, the user can customize their analysis. The available options are:
 * Select the desired tool to perform the analysis;
 * Use standard parameters provided by each tool, previously added to the PanGeneWhale database;
