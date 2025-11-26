@@ -158,6 +158,10 @@ In this example, the expected results of the analysis are as follows; however, t
 <img src="screenshots/outputExample.png" alt="Cenario7" width="300" height="400" /> 
 
 
+## How to Cite this Article
+Gomes Netto, W. de et al. (2026) ‘Pangenewhale - A dockerized Kotlin-based GUI platform for reproducible and user-friendly pangenomic analysis’, Computational Biology and Chemistry, 120, p. 108779. doi:10.1016/j.compbiolchem.2025.108779. 
+
+
 
 
 
