@@ -158,7 +158,7 @@ In this example, the expected results of the analysis are as follows; however, t
 <img src="screenshots/outputExample.png" alt="Cenario7" width="300" height="400" /> 
 
 
-## When using this software, please cite us.
+## How to Cite us.
 <p align="justify">Walter de Barros Gomes Netto, Saed Silva Sousa, Sofia Mayumi Brandao Nakamaru, Hellen Kempfer Philippsen, Denis de Castro Silva, Deriks Karlay Dias Costa, Ana Carolina Favacho Miranda de Oliveira, Rafael Azevedo Baraúna, Diego Assis das Graças, Artur Silva, Adonney Allan de Oliveira Veras. PanGeneWhale - A dockerized Kotlin-based GUI platform for reproducible and user-friendly pangenomic analysis, Computational Biology and Chemistry, Volume 120, Part 1, 2026, 108779, ISSN 1476-9271, https://doi.org/10.1016/j.compbiolchem.2025.108779.</p>
 
 
