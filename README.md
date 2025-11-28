@@ -162,6 +162,12 @@ In this example, the expected results of the analysis are as follows; however, t
 <p align="justify">Walter de Barros Gomes Netto, Saed Silva Sousa, Sofia Mayumi Brandao Nakamaru, Hellen Kempfer Philippsen, Denis de Castro Silva, Deriks Karlay Dias Costa, Ana Carolina Favacho Miranda de Oliveira, Rafael Azevedo Baraúna, Diego Assis das Graças, Artur Silva, Adonney Allan de Oliveira Veras. PanGeneWhale - A dockerized Kotlin-based GUI platform for reproducible and user-friendly pangenomic analysis, Computational Biology and Chemistry, Volume 120, Part 1, 2026, 108779, ISSN 1476-9271, https://doi.org/10.1016/j.compbiolchem.2025.108779.</p>
 
 
+### Note: We are not sure why some DOIs appear inconsistent; however, the correct ones are listed below.
 
-
-
+Beier, S. and Thomson, N.R. (2022) ‘Panakeia - a universal tool for bacterial PANGENOME analysis’, BMC Genomics, 23(1). doi:10.1186/s12864-022-08303-3.
+Bonnici V, Giugno R, Manca V. PanDelos: a dictionary-based method for pan-genome content discovery. BMC Bioinformatics. 2018 Nov 30;19(Suppl 15):437. doi: 10.1186/s12859-018-2417-6.
+M. J. Brittnacher, C. Fong, H. S. Hayden, M. A. Jacobs, Matthew Radey, L. Rohmer, PGAT: a multistrain analysis resource for microbial genomes, Bioinformatics, Volume 27, Issue 17, September 2011, Pages 2429–2430, doi:10.1093/bioinformatics/btr418
+Fouts, D.E., Brinkac, L., Beck, E., Inman, J., Sutton, G., 2012. PanOCT: automated clustering of orthologs using conserved gene neighborhood for pan-genomic analysis of bacterial strains and closely related species. Nucleic Acids Res. 40 (22), e172. doi:10.1093/nar/gks757.
+Amandine Perrin, Eduardo P C Rocha, PanACoTA: a modular tool for massive microbial comparative genomics, NAR Genomics and Bioinformatics, Volume 3, Issue 1, March 2021, lqaa106. doi:10.1093/nargab/lqaa106
+Robinson, M.D., Vitek, O. Benchmarking comes of age. Genome Biol 20, 205 (2019). doi:10.1186/s13059-019-1846-5
+Zhou, Z., Charlesworth, J. and Achtman, M. (2020) Accurate reconstruction of bacterial pan- and core- genomes with Peppan. doi:10.1101/2020.01.03.894154. 
