@@ -162,7 +162,7 @@ In this example, the expected results of the analysis are as follows; however, t
 <p align="justify">Walter de Barros Gomes Netto, Saed Silva Sousa, Sofia Mayumi Brandao Nakamaru, Hellen Kempfer Philippsen, Denis de Castro Silva, Deriks Karlay Dias Costa, Ana Carolina Favacho Miranda de Oliveira, Rafael Azevedo Baraúna, Diego Assis das Graças, Artur Silva, Adonney Allan de Oliveira Veras. PanGeneWhale - A dockerized Kotlin-based GUI platform for reproducible and user-friendly pangenomic analysis, Computational Biology and Chemistry, Volume 120, Part 1, 2026, 108779, ISSN 1476-9271, https://doi.org/10.1016/j.compbiolchem.2025.108779.</p>
 
 
-### Note: We are not sure why some DOIs appear inconsistent; however, the correct ones are listed below.
+#### Note: We are not sure why some DOIs appear inconsistent; however, the correct ones are listed below.
 
 - Beier, S. and Thomson, N.R. (2022) ‘Panakeia - a universal tool for bacterial PANGENOME analysis’, BMC Genomics, 23(1). doi:10.1186/s12864-022-08303-3.
 - Bonnici V, Giugno R, Manca V. PanDelos: a dictionary-based method for pan-genome content discovery. BMC Bioinformatics. 2018 Nov 30;19(Suppl 15):437. doi: 10.1186/s12859-018-2417-6.
